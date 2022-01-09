@@ -1,0 +1,5 @@
+{
+    "token": "OTI2MTEwNjg5NDI3MzQ1NTIw.Yc25yg.3Cl8N1sV2yxeNr7xnyA4NUoBDDE",
+    "mongooseConnectionString": "mongodb+srv://beta-test:1234S978@classic.as7wj.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "prefix": "h!"
+}
