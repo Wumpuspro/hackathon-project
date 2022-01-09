@@ -7,10 +7,10 @@
 
 
 # For running this code
-`npm install` - install all required dependencies
-fill config.json and ./config/config.json
-`node start` - start the project
-If you need any help join my server will help you because this bot for hackathon
+-`npm install` - install all required dependencies
+-fill config.json and ./config/config.json
+-`node start` - start the project
+-If you need any help join my server will help you because this bot for hackathon
 
 
 Bot prefix :- h!
